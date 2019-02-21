@@ -7,7 +7,9 @@ System na tle Google maps pokazuje zbiór stacji benzynowych na terenie Gdańska
 •	System posiada dwa adresy strony:
 1)	Publiczny (index.html)
 2)	Prywatny (index.php) 
+
 W pkt. 1 Dostępna jest mapa na której zaznaczone są wszystkie stacje benzynowe dodane do bazy danych MySQL. Brak możliwości edycji danych.
+
 W pkt2. Jest panel administracyjny do którego jest konieczność zalogowania. Jest w nim możliwość dodawania, edytowania i usuwania istniejących danych zarówno w panelu, jak i bezpośrednio na mapie.
 
 
