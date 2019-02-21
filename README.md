@@ -22,10 +22,10 @@ Funkcjonalność:
 
 
 Wykorzystane technologie:
-•	HTML5, CSS3
-•	PHP
-•	MySQL
-•	JavaScript
+*	HTML5, CSS3
+*	PHP
+*	MySQL
+* JavaScript
 HTML i CSS3 - wykorzystany do stworzenia graficznej części serwisu.
 PHP - wykorzystany do skryptów związanych z przesyłaniem danych (logowanie, weryfikowanie danych oraz do dodawania, edycji i usuwania nowych rekordów w bazie danych)
 MySQL – baza danych współgra z PHP i JavaScript
