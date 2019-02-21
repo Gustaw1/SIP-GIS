@@ -1,0 +1,153 @@
+﻿body {
+    background-image: url(background/black_mamba.png);
+    color: #000000;
+    margin: 0;
+    font-family: Verdana;
+    font-size: 10px;
+}
+
+#head_container {
+    color: #000000;
+    font-size: 15px;
+    background-image: url(background/wall4.png);
+    width: 50%;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    border: 0px solid #000000;
+    -webkit-box-shadow: 5px 5px 40px -4px rgba(255,255,255,0.89);
+    -moz-box-shadow: 5px 5px 40px -4px rgba(255,255,255,0.89);
+    box-shadow: 5px 5px 40px -4px rgba(255,255,255,0.89);
+}
+
+#container {
+    color: #000000;
+    font-size: 20px;
+    background-image: url(background/wall4.png);
+    width: 300px;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    border: 0px solid #000000;
+    -webkit-box-shadow: 5px 5px 40px -4px rgba(255,255,255,0.89);
+    -moz-box-shadow: 5px 5px 40px -4px rgba(255,255,255,0.89);
+    box-shadow: 5px 5px 40px -4px rgba(255,255,255,0.89);
+}
+
+input[type=text],
+input[type=password] {
+    width: 300px;
+    background-color: white;
+    color: #2e2e2e;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 15px;
+}
+
+input[type=search]:focus {
+    background-color: #ededed;
+}
+
+input[type=submit] {
+    width: 300px;
+    background-color: #36b03c;
+    color: white;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 15px;
+    outline: none;
+    letter-spacing: 2px;
+}
+
+input#dodaj {
+    width: 100px;
+    background-color: #000000;
+    color: white;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-top: 15px;
+    outline: none;
+    letter-spacing: 2px;
+}
+
+input#usun {
+    width: 100px;
+    background-color: #000000;
+    color: white;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-top: 15px;
+    outline: none;
+    letter-spacing: 2px;
+}
+
+input#edytuj {
+    width: 100px;
+    background-color: #000000;
+    color: white;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-top: 15px;
+    outline: none;
+    letter-spacing: 2px;
+}
+
+input#x,
+input#y,
+input#cena,
+input#siec {
+    width: 150px;
+    background-color: white;
+    color: #2e2e2e;
+    border: 2px solid #ddd;
+    border-radius: 2px;
+    font-size: 15px;
+    padding: 2px;
+    box-sizing: border-box;
+    margin-top: 2px;
+    outline: none;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: #606060;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
